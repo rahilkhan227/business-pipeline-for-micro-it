@@ -1,21 +1,21 @@
 # business-pipeline-for-micro-it
-# 📊 AI-Based Business Report Web App
+#  AI-Based Business Report Web App
 
 An intelligent web application that helps users analyze CSV datasets, generate meaningful visualizations (charts), extract NLP-based summaries, and download professional PDF business reports — all in one click.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📁 Upload and preview CSV datasets
-- 📈 Generate interactive **Line**, **Bar**, and **Scatter** charts
-- 🧠 Automatic **NLP-based summary** of numeric data
-- 🖼️ Upload custom company **logo** to personalize reports
-- 📝 Generate downloadable **PDF reports** containing:
+- Upload and preview CSV datasets
+-  Generate interactive **Line**, **Bar**, and **Scatter** charts
+- Automatic **NLP-based summary** of numeric data
+- Upload custom company **logo** to personalize reports
+-  Generate downloadable **PDF reports** containing:
   - Summary
   - Charts
   - Logo
-- 💡 Simple and user-friendly UI built with **Streamlit**
+-  Simple and user-friendly UI built with **Streamlit**
 
 ---
 
@@ -30,7 +30,7 @@ An intelligent web application that helps users analyze CSV datasets, generate m
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
 
 ### ➤ Landing Page
 *(Upload CSV and Logo)*
